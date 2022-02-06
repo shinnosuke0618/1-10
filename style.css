@@ -7,7 +7,7 @@
 header {
   width: 100%;
   height: 50px;
-  background-color: #FF9A4B;
+  background-color: #ff9a4b;
 }
 
 main {
@@ -21,7 +21,7 @@ main {
   margin-right: 30px;
   padding: 10px;
   position: relative;
-  background-color: #EEEEEE;
+  background-color: #eeeeee;
 }
 
 .box:last-child {
@@ -52,8 +52,8 @@ main {
   position: absolute;
   top: 0;
   left: 0;
-  background-color: #FF9A4B;
-  color: #FFF;
+  background-color: #ff9a4b;
+  color: #fff;
 }
 
 .title {
@@ -63,12 +63,12 @@ main {
 footer {
   width: 100%;
   height: 50px;
-  background-color: #AAAAAA;
+  background-color: #aaaaaa;
 }
 
 @media screen and (max-width: 768px) {
   main {
-    width: 100%;ß
+    width: 100%;
     display: block;
   }
 
@@ -80,7 +80,7 @@ footer {
   }
 
   .box:nth-child(2) {
-    margin: 2% auto;
+    margin: 20px auto;
   }
 
   .box:nth-child(3) {
